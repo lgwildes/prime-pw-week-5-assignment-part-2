@@ -1,0 +1,15 @@
+.header {
+background-color: rgb(138, 98, 69);
+color: bisque;
+text-align: center;
+}
+
+.main {
+    background-color: rgb(196, 202, 201);
+    padding: 1em;
+}
+
+body {
+    margin: 0;
+    background-image: url("record.png");
+}
